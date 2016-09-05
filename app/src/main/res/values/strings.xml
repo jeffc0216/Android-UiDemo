@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UiDemo</string>
+    <string name="hint_etUser">User Name</string>
+    <string name="hint_etPassword">Password</string>
+    <string name="text_btSubmit">Submit</string>
+    <string name="text_btClear">Clear</string>
+    <string name="hint_etPhone">Phone Number</string>
+    <string name="hint_etAge">Age</string>
+    <string name="msg_ClearAllFields">clear all the fields</string>
+
+</resources>
